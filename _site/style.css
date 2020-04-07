@@ -85,7 +85,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("/images/stracta.jpg");
+  background-image: url("/images/Copyright_Karen_IMG_6862.jpg");
   background-attachment: fixed;
   webkit-filter: greyscale;
   background-color: teal;
@@ -155,4 +155,8 @@ section {
 
 .masonry .item img {
   width: 100%;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
